@@ -1,0 +1,48 @@
+*{
+	outline:1px solid red;
+}
+/*--------------------HEADER---------------------------------------*/
+header{
+	background: url(../img/grupal.jpg) no-repeat;
+	background-size: cover;
+	height: 700px;
+}
+.imag-responsive{
+	width: 100%;
+}
+ header nav ul{
+ 	list-style: none;
+ 	margin-top: 75px;
+ }
+ header nav li{
+ 	display:inline-block;
+ 	margin-right: 10px;
+ }
+ .sumate{
+ 	margin-top: 75px;
+ 	margin-left: 75px;
+ 	background: #F4D03F;
+ 	border-color: #F4D03F;
+ }
+
+ /*-------------------------------Imagenes--------------------------------*/
+ .imagen{
+ 	width: 95%;
+ }
+ .texto{
+ 	font-weight: bold;
+ }
+
+
+footer{
+	background:#424242;
+	height:100%;
+	width: 100%;
+	color:white;
+	padding:5px 30px 15px 35px;
+
+}
+
+
+
+
